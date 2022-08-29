@@ -1,5 +1,8 @@
-// TODO: Add random generator to make a gameboard (Width x Height) + carrot placement
-// TODO: Make a % of the game board holes
+// TODO: Add generateField() method to generate a random gameboard (Width x Height) + carrot placement
+// TODO: Make a % of the game board holes (easy to hard)
+// TODO: Make character start on a random spot
+// TODO: Maze validator
+// Transform from using the terminal into a webpage
 
 const prompt = require("prompt-sync")({ sigint: true });
 
